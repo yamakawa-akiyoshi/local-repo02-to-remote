@@ -7,6 +7,7 @@ step06
 step07
 step09
 step08 local
+step09 remote
 
 step101/topic01
 step102/topic01
